@@ -13,8 +13,8 @@ Why?
 This project aims to help productiveness throughout your daily life. 
 Instead of planning way ahead and forgetting about what is in front of you, I am looking to build Productive Plant to help be productive in the moment. 
 Therefore, making sure to be productive today to lessen the load for tomorrow! No matter the size of the objective, longest it's an objective, it is better than nothing. 
-The plant represents your workload or really much your stress level... As long as you keep the health 100% you are finishing your objectives, which can help to reduce stress, anxiety and ect. 
-This has the potential to become something great, as well as treated as a 'break' from focusing too much, that you get to reflect on what you have achieved, rather than just focusing on what you have left to do. 
+The plant represents the state of your mind. As long as you keep the health 100% by completing your objectives, this will reduce your workload and hopefully the stress/anxiety that follows when the workload is too heavy to carry!
+This has the potential to become something great, as well as treated as a 'break' from focusing too much, that you get to reflect on what you have achieved, rather than just focusing on what you have left to do all the time. 
 
 MVP:
 
