@@ -3,7 +3,7 @@ package com.productiveplant.Spring.Initializer.Project.model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "\" objective \"")
+@Table(name = "\"objective\"")
 public class Objective {
     @Id
     @SequenceGenerator(
