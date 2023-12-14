@@ -3,6 +3,9 @@ package com.productiveplant.Spring.Initializer.Project.model;
 public class Regen {
     private int regen;
 
+    public Regen() {
+    }
+
     public Regen(int regen) {
         this.regen = regen;
     }

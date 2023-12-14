@@ -1,9 +1,10 @@
 package com.productiveplant.Spring.Initializer.Project.model;
 
-public class Health{
+public class Health {
+    private int health;
 
-    protected final int health;
-
+    public Health() {
+    }
 
     public Health(int health) {
         this.health = health;
@@ -11,5 +12,9 @@ public class Health{
 
     public int getHealth() {
         return health;
+    }
+
+    public void setHealth(int health) {
+        this.health = health;
     }
 }
